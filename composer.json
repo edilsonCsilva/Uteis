@@ -3,7 +3,7 @@
     "name": "analisticsdata/uteis",
     "description": "Funções Base",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
     "require": {},
     "autoload": {
         "psr-4": {
