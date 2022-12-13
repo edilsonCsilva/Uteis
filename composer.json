@@ -1,0 +1,11 @@
+{
+    "name": "analisticsdata/uteis",
+    "description": "Funções Base",
+    "minimum-stability": "RC",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+             "Analisticsdata\\Uteis\\": "src/"
+         }
+      }
+}
