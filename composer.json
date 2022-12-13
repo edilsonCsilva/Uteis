@@ -1,4 +1,5 @@
 {
+ 
     "name": "analisticsdata/uteis",
     "description": "Funções Base",
     "minimum-stability": "stable",
@@ -7,5 +8,10 @@
         "psr-4": {
              "Analisticsdata\\Uteis\\": "src/"
          }
-      }
+      },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
+
 }
