@@ -7,5 +7,10 @@
         "psr-4": {
              "Analisticsdata\\Uteis\\": "src/"
          }
-      }
+      },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
+
 }
