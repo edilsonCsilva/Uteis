@@ -1,7 +1,7 @@
 {
     "name": "analisticsdata/uteis",
     "description": "Funções Base",
-    "minimum-stability": "",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
