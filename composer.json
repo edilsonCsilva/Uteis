@@ -1,4 +1,5 @@
 {
+ 
     "name": "analisticsdata/uteis",
     "description": "Funções Base",
     "minimum-stability": "stable",
@@ -11,6 +12,6 @@
     "config": {
         "preferred-install": "dist"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 
 }
