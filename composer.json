@@ -2,16 +2,14 @@
  
     "name": "analisticsdata/uteis",
     "description": "Funções Base",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true
     "require": {},
     "autoload": {
         "psr-4": {
              "Analisticsdata\\Uteis\\": "src/"
          }
-      },
-    "config": {
-        "preferred-install": "dist"
-    },
-    "minimum-stability": "dev"
+      }
+    
 
 }
